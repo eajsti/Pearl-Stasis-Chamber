@@ -1,0 +1,4 @@
+name: StasisChamber
+version: 1.0.6
+main: com.stasis.plugin.StasisPlugin
+api-version: '26.2'
